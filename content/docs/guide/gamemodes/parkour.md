@@ -25,6 +25,6 @@ The game combined this fast-paced parkour with combat within the game very effec
 
 ## How Parkour Works
 
-We don't have Parkour fully working yet but watch this helpful video by Titanfall 2 speedrunner Bryonato to see how it will work:
+We don't have Parkour fully working yet but watch this helpful video by Titanfall 2 speedrunners Bryonato & Zweek to see how it will work:
 
 {{< youtube id="C_cXYyA4LaU" >}}
